@@ -1,0 +1,35 @@
+Name: Ashishkumar Mishra
+Email: ashishmishra2434@gmail.com
+Mobile: 8104578546
+---------------------------------------------------------------
+
+Files Details:
+
+1. index.php is for home page(view registerd users details)
+2. register.php is for registration screen
+3. login.php is for login screen
+4. navbar.php is for is for header section
+5. logout.php is for logout
+6. connect.php is for database connection
+7. delete.php is for delete user detail or set IsActive value 0
+
+----------------------------------------------------------------------
+Folders Details:
+
+1. ORNET is main Assignment folder that contains all files and folders
+2. BOOTSTRAP folder contails all css/bootstrap class/codes
+3. DATABASE folder contains sql(ornet database) file
+4. js folder contains javascript codes
+5. OUTPUT_VIDEO folder contains video of this assignment - input and output
+
+----------------------------------------------------------------------
+Database Connection file:
+
+connect.php
+
+server name: localhost
+username: root
+password: root
+database name: ornet (To access this SQL file please open DATABASE folder)
+
+----------------------------------------------------------------------
